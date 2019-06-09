@@ -1,1 +1,13 @@
 this is my first text file.
+
+
+To add file into Git these are the steps to follow
+
+1) Git add filename
+
+2) git status - to know the status
+
+3) git Commit -m "(comments message)" filename
+
+4) git push -u origin master
+
